@@ -1,9 +1,9 @@
 # Solidity Project 
 
 #  EVM Course
-	This course was organized some basic concepts about Web3 and Blockchain .
-	I learnt all concepts given in different modules through this course which i didn't know  earlier .
-        I get a project/Challenge at last.
+This course was organized some basic concepts about Web3 and Blockchain .
+I learnt all concepts given in different modules through this course which i didn't know  earlier .
+I get a project/Challenge at last.
 
 
 ## Project
